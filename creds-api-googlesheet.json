@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eng-lightning-353812",
+  "private_key_id": "9aa5bf7a6f878ee5541e1ebf2040d1a967519082",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOfwC7nOchyIDe\nJ4ou9vJVDFuUAcE+P0DfT2Zgs4uP4A4fC+ehDS2cPE0jJIH/JMidp8fP5C6HRb49\nxYos2zSb9tmcuhechY/znkB2Y+ACB9dW0db9lBZxEBCBj+6H8G2llzlvdzlTgwt7\nHnoDuXxDoV8Q7djDpdrVXIUbzBzSeHL4BhfVUF7m5BMm34gUlScYsGrCR/kOKDd7\nOk3j3zvsAZMFsr5TALvjOvUBDa5wEBxntCY+6iS0qVLS3jQ/Sy9kte+YnV2x48XP\nPnidnrqgjDEbFEcvEYUR5Dgh6HtYEdulZ6KiJoq6b3BSY7V3MDYJC+hTjgoNbMBx\nZIY4yH+xAgMBAAECggEAAecxvojnqGwMo/+BSoWEHjyK64ZInaY/ls9IhkOhWaYa\n+zZE4Dsa3IHBxD0l5ZAVOT6+nK/hreV6p18WsusiRP21a7hbV1nzxa8DsROikOI5\nndc5QAUJX+lh/Y+yBxa0K/6EzP4wTRC8HlpdjYM8HfNyyNkoUkVJCwZbQ7JR4a6u\nQrGkIXrBNqJ7p/yfDvOojqnB6VWz4c4vRAbjdeXlarptR6Jxq+/rYl4jCX2RCJBQ\nR8zjJA6evySzD5QyR5fxhxHSsvWvvSiDdQDy+CbG8xj/d/+VhwppUrZY4GQ50lWB\ngIhNPtehk6T9UThXjkRuCylhf0T9JKkwtAttnsoPsQKBgQDvurJhuj80ZkX4aydI\nFeNWK80j93kLBP9/X2glgz+Xeiw2+BpRW+FJx/HMzjl/M3ScQiufJcUJyT3l1ZCG\nGKHwJdg1ziiWoWw/96Bfkgz+CT0ey67bDZJhFLUdbl/bNXWou0lGdbKjTBehIJVm\nzOt4arOv/6kX5TahQSZLYMV3SwKBgQDcguDsuudV/jQFV5NbTTmnQKzIBk9DAzJv\n904i9T2aAgFvhhVUOJFSnuEk9zw6M49GdLhyWoSNdPqY83IwyHlNOg4kRFvmEg4m\nQkDdPbCiXbBQncjNWXg0d2PVudkQo74s9uq+3hgtP3sBHnQfyMqK7kVKs3n2iz+3\nP3IUmx0bcwKBgFWhyOpjzwP2rHPKQuPa/bPgPYzlb1ViWamz+M29jk+bkoOoKC57\ntYPXaiYQXDV1uee/MznMEhAm1HduzAs6bU4NFqhRleoIi1RmLeE1mHJ99lkzxKf2\ntxz6ep+it5bkB71X+Rq0HDV8jsw9iWCJPmtrIfhySIKCm/sJ/JXcYWz1AoGAC4K1\ndQYIn1+GnaTFp2VvlgB1RHe32XqoPln9dSuyDIEATC8Gm//b7iEnBYP2W99nIjlj\ni2yYML4jeqpykoNUeaiHJnN/DJJytKKOuj3HI6KaWorx+W4rLSnyRyzNXOX/Pl+h\nP1dekbYXmKZbT3FuyTPI4C5gNnNsXwdr0BGMwmsCgYEA2GUtvaGB5gK+mVq6XtUN\ntf8v93YRdTGuIrbUBc2lTPV11X1t4hq6ofGhkxkCEpu2cw/5ufo6r6uvxuLoORLd\nq4RwhX1RIhq1M3jicOMqHlda9fFcpGT+dvdRDKNRsBzVQDmKBTxE62yuWNjlQj+w\nSj/5zjsQu4aWe7YTcJM5Q2I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-sheet-foodd@eng-lightning-353812.iam.gserviceaccount.com",
+  "client_id": "109254230975863709413",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-sheet-foodd%40eng-lightning-353812.iam.gserviceaccount.com"
+}
